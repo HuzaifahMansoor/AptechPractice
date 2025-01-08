@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<school>
+    <class>
+        <students>
+            <student>
+                <name>Ahmed</name>
+                <age>16</age>
+                <subject>Computer Science</subject>
+            </student>
+            <student>
+                <name>Ali</name>
+                <age>17</age>
+                <subject>Computer Science</subject>
+            </student>
+            <student>
+                <name>Sharukh</name>
+                <age>16</age>
+                <subject>Biology</subject>
+            </student>
+        </students>
+    </class>
+</school>
